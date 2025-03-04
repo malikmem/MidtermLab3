@@ -1,6 +1,6 @@
-# This is a basic workflow to help you get started with Actions
+oo# This is a basic workflow to help you get started with Actions
 
-name: CI
+name:Memoona
 
 # Controls when the workflow will run
 on:
